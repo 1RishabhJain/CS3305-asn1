@@ -11,8 +11,6 @@ stdio.h
 -
 stdlib.h
 -
-sys/types.h
--
 sys/wait.h
 -
 unistd.h
@@ -20,5 +18,7 @@ unistd.h
 string.h
 -
 math.h
+-
+stdbool.h
 -
 
