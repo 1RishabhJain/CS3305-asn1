@@ -11,7 +11,7 @@
  */
 
 int main(int argc, char **argv) {
-    // Declaring variables of type pid_t
+    // Declaring variable of type pid_t
     pid_t pid;
 
     // Character array for sprintf statements
@@ -36,8 +36,7 @@ int main(int argc, char **argv) {
     if (pid == 0) {
         sprintf(output, "parent (PID %d) created child_1 (PID %d)", getppid(), getpid());
         puts(output);
-        sprintf(output, "parent (PID %d) is waiting for child_1 (PID %d) to complete before creating child_2", getppid(),
-               getpid());
+        sprintf(output, "parent (PID %d) is waiting for child_1 (PID %d) to complete before creating child_2", getppid(), getpid());
         puts(output);
 
         // Converting PID to string
