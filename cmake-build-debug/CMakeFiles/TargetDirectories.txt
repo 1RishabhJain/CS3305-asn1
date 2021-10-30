@@ -1,3 +1,0 @@
-/Users/rishabhjain/Documents/GitHub/CS3305-asn1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/rishabhjain/Documents/GitHub/CS3305-asn1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rishabhjain/Documents/GitHub/CS3305-asn1/cmake-build-debug/CMakeFiles/CS3305_asn1.dir
